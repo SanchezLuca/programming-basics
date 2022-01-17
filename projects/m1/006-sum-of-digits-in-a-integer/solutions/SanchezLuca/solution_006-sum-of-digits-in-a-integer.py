@@ -8,6 +8,6 @@ x3 = x_2 // 10
 x_3 = x_2 % 10
 x4 = x_3 // 1
 
-Tot_x = x1 + x2 + x3 + x4
+totale_x = x1 + x2 + x3 + x4
 
-print ('The sum of the digits is--> ',Tot_x) 
+print ('The sum of the digits is--> ',totale_x) 
